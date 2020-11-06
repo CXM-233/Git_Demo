@@ -1,0 +1,8 @@
+{
+    "java.maven.downloadSources": true,
+    "java.configuration.maven.userSettings": "D:/Program Files/apache-maven-3.6.3-bin/apache-maven-3.6.3/conf/settings.xml",
+    "java.home": "D:\\Program Files\\Java\\jdk-15.0.1",
+    "maven.terminal.useJavaHome": true,
+    "maven.view": "hierarchical",
+    "maven.executable.options": "D:\\Program Files\\apache-maven-3.6.3-bin\\apache-maven-3.6.3\\bin\\mvn.cmd"
+}
